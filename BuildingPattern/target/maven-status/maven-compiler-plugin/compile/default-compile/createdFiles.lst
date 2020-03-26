@@ -1,0 +1,11 @@
+com\bind\BuildingPattern\Thumpsup.class
+com\bind\BuildingPattern\Softdrink.class
+com\bind\BuildingPattern\Meal.class
+com\bind\BuildingPattern\Vegburger.class
+com\bind\BuildingPattern\BuilderDemo.class
+com\bind\BuildingPattern\Mealb.class
+com\bind\BuildingPattern\Packing.class
+com\bind\BuildingPattern\Bottle.class
+com\bind\BuildingPattern\Wrapper.class
+com\bind\BuildingPattern\Hamburger.class
+com\bind\BuildingPattern\ItemType.class
